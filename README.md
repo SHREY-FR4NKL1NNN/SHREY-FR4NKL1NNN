@@ -99,8 +99,6 @@ GPU-backed (RTX 4060, CUDA 12.6) training with live weight heatmaps, gradient no
 
 <div align="center">
 
-*Applying to the **Polaris Fellowship 2026** — India's most selective student builder programme*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SHREY-FR4NKL1NNN&color=7F77DD&style=flat)
 
 </div>
