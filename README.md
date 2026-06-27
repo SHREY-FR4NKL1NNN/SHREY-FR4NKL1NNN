@@ -106,3 +106,5 @@ GPU-backed (RTX 4060, CUDA 12.6) training with live weight heatmaps, gradient no
 </div>
 
 ---
+
+<!-- profile -->
